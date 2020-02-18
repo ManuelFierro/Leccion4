@@ -1,0 +1,19 @@
+h1,h2{
+  color: red;
+}
+ol > li {
+  color:red;
+}
+input [type=text]{
+  background-color: lightgrey;
+}
+input [type=number]{
+  background-color: red;
+}
+button:hover{
+  background-color: GREY;
+}
+
+a :: before {
+content:* \21d2 click aqui: ;
+font-weight: :bold;
